@@ -20,8 +20,7 @@ Red pers is een toegankelijk en inclusief opleidingsplatform dat is bedoeld om j
 Sinds juni 2023 is de website gelanceerd (misschien iets te vroeg) waarbij de website is opgezet met Wordpress en Elementor. Hierbij zitten een aantal bugs en is Red Pers geinteresseerd om afstand te doen van Wordpress en het laten opbouwen met code ipv met plugins.
 
 
-
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Live link: https://jealous-tan-kimono.cyclic.app/
 
 ## Gebruik
 <!--Bij Gebruik staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
@@ -31,7 +30,7 @@ Op de homepagina staat een overzichtspagina van de geplaatste artikelen, wanneer
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Voor deze website is onder andere gebruik gemaakt van Node, Express en EJS en gebruikt de data van de WordPress API. 
+Voor deze website is onder andere gebruik gemaakt van Node, Express en EJS en gebruikt de data van de WordPress API. In de CSS heb ik gebruik gemaakt van custom properties. 
 
 ## Installatie
 <!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
